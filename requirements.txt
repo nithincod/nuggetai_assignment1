@@ -1,0 +1,8 @@
+
+streamlit
+beautifulsoup4
+requests
+pandas
+chromadb
+sentence-transformers
+transformers
