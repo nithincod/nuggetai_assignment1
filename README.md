@@ -5,7 +5,7 @@ This project implements a Retrieval-Augmented Generation (RAG) chatbot using scr
 
 ## Features
 - Web scraper using BeautifulSoup
-- Embedding and vector storage using Sentence Transformers and ChromaDB
+- Embedding and vector storage using Sentence Transformers and MongoDB
 - Answer generation using Hugging Face T5
 - Streamlit-based UI
 
